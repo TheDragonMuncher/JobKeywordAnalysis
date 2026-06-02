@@ -1,0 +1,633 @@
+{
+    "search_metadata": {
+        "id": "6a1f0b00b13aa7e1539b96a6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2omf_hVK6NoV2NFyuxWD9g/6a1f0b00b13aa7e1539b96a6.json",
+        "created_at": "2026-06-02 16:55:28 UTC",
+        "processed_at": "2026-06-02 16:55:28 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Junior+Software+Developer&uule=w+CAIQICIYV2F0ZXJkb3duLE9udGFyaW8sQ2FuYWRh&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/2omf_hVK6NoV2NFyuxWD9g/6a1f0b00b13aa7e1539b96a6.html",
+        "total_time_taken": 1.71
+    },
+    "search_parameters": {
+        "q": "Junior Software Developer",
+        "engine": "google_jobs",
+        "location_requested": "Waterdown",
+        "location_used": "Waterdown,Ontario,Canada",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o",
+                "q": "Junior Software Developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QxKsJKAB6BAgTEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U",
+                "q": "Junior Software Developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QxKsJKAF6BAgSEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U"
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o",
+                "q": "Junior Software Developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QxKsJKAJ6BAgUEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+no+degree&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i75odtkuYr4M7okIZhqYEkucgx2l_IMf6M8cDv6dGpbp3AGUeS4IgaYwDG0dieY1O3v-GmE3Z8bvP_e4D4nHik9W0nHnRLeHWoBkAVXa8CbJk9ro7x6-UyDz4pYOwbuvzk3g1vf72Ka4LO0ZDeiAJBQRg8o"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U",
+                "q": "Junior Software Developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QxKsJKAN6BAgVEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+remote&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jWRjFgMBLs8xV-yUNvVTtNjapFUG6_I-DZ8aD-hVkLBxr9EjK5cy_DCUvxLIwlERYTzZeOYmhPc1uZQnDLptzD0TnafMHEhsPAFLIDLjZCJ_c9Mck3MeNoC8aPl-iLw29PbFnMtgTxp5WA3fTyRWpGRbp9U"
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0",
+                        "q": "Junior Software Developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAC",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4",
+                        "q": "Junior Software Developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM",
+                        "q": "Junior Software Developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4",
+                        "q": "Junior Software Developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4"
+                }
+            ]
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0",
+                        "q": "Junior Software Developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAC",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4",
+                        "q": "Junior Software Developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM",
+                        "q": "Junior Software Developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4",
+                        "q": "Junior Software Developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQIGBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA",
+                        "q": "Junior Software Developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILRAC",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA",
+                        "q": "Junior Software Developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA",
+                        "q": "Junior Software Developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg",
+                        "q": "Junior Software Developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA",
+                        "q": "Junior Software Developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILxAC",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+full+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphb-y91lUqVk4jAvk6Lbw9AC78AqFxxkDDCn8tY2wGNFUtLayAqFrUAN-7xS-Z7nJB-q7rbXGRuV3hLxwgPf2HBI2Cu_mrwSgeZqfVcg-PDClYUvYl3iuSK5TcjHGC-sMvyOVh2ic_KGWnNWdcs0dsS2FkZydVWESO_Pxtn37KsuciyYhKpRB_LMWFeK-vF2stnKn_smq2OrsJOuaI7yYhpPcjnPn6WDuFvP_BdGz4oKAS0wFGj2DhBJ4QI5v9lyNUpwALgA"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA",
+                        "q": "Junior Software Developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILxAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+part+time&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-jT-MTmx0LZEcIPLV3erTWTeas47cVkVGanuWV1gixWpCZ_ED7pXOWkn3sKiVFYphbLZ6hUG6EDa5jmfzwDh2ibW4Nzrx2adlEx8HSG6UNmTpdyq_CiYnoSaxij_vnZglXhy4XpNeaMv6lUz8UqyfVblqakiejGyh5g5ul9vkxjA6ZxbefVHV_dAdtKR9y-rOhHVW5iG_Dsh2YSyuSulaERqCwgSp61YuPnrgd0LAK-AfvPlQ5bJAIA73ir1b5JDPAUMDtK1zV2TodiJJQAqsvEHMogGuatT1y4ztCimh4_U6jA1goghiaw55ZylLUjRZe1XIJA"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA",
+                        "q": "Junior Software Developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILxAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+contract&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-II1MX9mb87I6UhhjhFQ0mTszOUsdzDbLkIpHO7WTOcCZQZr7rjRjhlyOwlYCAQXkCJRlA3ocxTenk5hwnLjq2DIR-EtZnsgY3SsYO9QmPU9cz6w6qp9qXkLais_NdIR5tXZntPY62b97WlMgpnt03zKsGnZxMzWr1bJuFR-IZBTI2g9nCKt_BxVtc0PcIfYtmejlUvo28DPzfaBPE0Fpb3aIZCsmiWZ_UHCU-8u_Fv1VSoEzpqnRWTAUDk3nH7HY0tLlY1z23IAfvkN1nbgVq-cHCd-vMRN7w_TTtK9IdWwqjg_eIpC_t_sdvJNZ94rEqu2zTA"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg",
+                        "q": "Junior Software Developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILxAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+internship&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ohTsy29VljORSPBLX_pNdfc8x92APPjhS6lY1vFAN3VS6bFSr6YPE_AvXxhWqOBZHfnsvpSXHXgXFLEqn2QvBbliCLytnQkOxU4ix4TwlJtrIBTq5z8TRDgxstIXGaFKx-Oq1SkWqSsKGsXDbZr38Jn8NyUxAGvNpWmUWEYB28Jg8GVIqIfHmRVG3bpOkO4YxbxOF0kQFAOD5SJaFK-gmdMJl9xGK4rUgP34Mz98s8OzqhFOb19fQTHzEc6CfdnBk2_s1N4Pgdp8p9zt73H1tOiTaiS_rnsZs1mm8VJEPnInbzAfWcgzmVp1BC8nEMK3SrNcSg"
+                }
+            ]
+        },
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0",
+                        "q": "Junior Software Developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILBAC",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+since+yesterday&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6XS5QlAKGowftm4bhSjuKL85N_WAgyNTI5qQLcCBjS29-FVFqTEu06IPygLh93OPkWWZwj7jNjhnVWZHAXWp5kh_MP-2Ujs9bIubATr-BdkB4YcoCgRRQIv_WG0SWAGxZYgZnZWgefetY3D55DFJGW-GyMeBbkGtCxhKPg3Irj7IejtS-eKg9GcHqo_XozvnyKT_eTJvqbe3dKZmLrllo77l1EOx45GfNLJqlC4-MuxcFiyOwl041F-r8NAkc4tMRVNz8DGwm8xlgW0mj7KfcfH2KiMGmy3TVfB6gO372zGonXyHw2ILx5e_RsiCG21Ym1dG7Lqe9E3FMDjBmCcGRxJIFE0"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4",
+                        "q": "Junior Software Developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+3+days&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-CYU83ib0a9TcSDi79rcpXR7ceqoQN5VBR_bq106j9YpLMwZkQB-IaRc9UW8sakN3nIEMJl29GsO3qjobxByiM31c78TvhgLrKmQkLiWbiB-WlOkw3LV2MerS42TtncOV-_9Qp72UTC2D4FfGJGFjoxap_f-NtWBNwf0cogVqOU2__UTNX0QEDd6lxPmvFiQbem0DBEuIywJ2PvRQNOATWmncZ0Pxdg41Jn6Zvv8FvwzJaPNUCycJ5rlhOhvEHXy7zgvrnm5oUf0gyulOe4tytmNlK9r5AmtfwHEFhNtIzU-XI9_cDGE7lJTxO3UT_QAeTWhLhmYwjeiR3eH8hXs-x5TBxN4"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM",
+                        "q": "Junior Software Developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+week&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-m_R899OVrqoMpQkXXd4l8ZN0OQsgEsgNSQs0Aq5yR-OgPwe0FkneNxJZhvaFKmoYc847SiDrEPzGexmJuZWQXtFM5soMyMpFR7Xxq3kHF2tBImHWkXqqfG1H_pc9fLhiMBS2ZX0UKQ5J9EtZbpNdJe5um1ogvEkQu5TSkForXcySHkJMOUTtrdAHgEBRyDb6DJ4iSbz4us1hKHaNlwh8yKpcdahaef9mBgN4_awGh7HlK6BsecAGD4W3KaHjISOSxDjzkAhdg83IrQaLVjQ3ifYlWMYX1c3a31lyL9-gjuan7bF0m6mGxm8jTz-TRNvDAtwKcgbVVlzzz9PLuI3dgMl6IRM"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4",
+                        "q": "Junior Software Developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=70aa846ced6b4820&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4&udm=8&sa=X&ved=2ahUKEwjO7cntgumUAxUhFVkFHYk2G_0QkbEKegQILBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&q=Junior+Software+Developer+in+the+last+month&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-PISY1zO10dKPlEuKKfTHdg1K_OjA_HmQh242zwnwErrsf7kOoimJL5WndIzTpA6h9plAx6fKoGRiECu3VZAoisqJarvhOjOYFO9zEzHcwWjIyyZi4fJYj6e8LlfC-7lnXqySQWV_VYZQSnJEgkZah7BcDDBZdY0CjCyfjYONJyN5R3CTXKfB2ti0_SUcAZ_6lFHhkMYY6gqRhx6EG09v8vFZCmiKr2VALeNCuEV20i1jRJW4dDf_zkH-vYqKmiF6oXzgFknOZlodCW-tOfXlGYxOzl15ysmGbWqs7PJua38AlFbtahrNjE3GT9q1wCmrpdC2nC8kiFcmXgyQimUDOtBtQF4"
+                }
+            ]
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "Junior Full Stack Developer (Contract Role)",
+            "company_name": "Capco",
+            "location": "Toronto, ON, Canada",
+            "via": "ZipRecruiter",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=cmR8TeW6RjKDD3VXAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBAFUGxzBLGYUiUmIthoZ0QhhYLah8k6JNF1_7I7kdzGq6rNa1_yGSW7sncdAh16a-mqbJ60l7dYeAk0LeA0sFG6wMqMFlSipigcTEtwdAQaK-Ntq-rjJs9jtFkTlbUzmcErh5MaQ_5AHf9UseUg3rJKtVovh8y7Zj4p2BtQ5-iG8OuQ0vmUUsGO7_wF4foCzqIAAAA&shmds=v1_ATWGeePSQTUtP0nSFjnG7_MdzabOnTyV5fx1oo1RBlO9WiIAzw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=cmR8TeW6RjKDD3VXAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/ozwiq9YUOywrpOh-44o0gwUCyzFGYjl_loAeSpIwYf4.jpeg",
+            "extensions": [
+                "23 hours ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 hours ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.ziprecruiter.com/c/Capco/Job/Junior-Full-Stack-Developer-(Contract-Role)/-in-Toronto,ON?jid=316c706a438f3256",
+            "job_title": "Junior Full Stack Developer (Contract Role)",
+            "description": "Drive secure, resilient technology solutions while helping leading financial institutions strengthen their vulnerability management and remediation capabilities.\n\nThe Role\n\nCapco is seeking a Junior Full-Stack Developer (6 months contract) to support a major Financial Services client in delivering vulnerability remediation initiatives across critical applications and platforms. This role combines hands-on full-stack engineering with cross-functional coordination, helping delivery pods prepare, implement, and validate patching activities to address Mythos-related vulnerabilities and strengthen application security.\n\nYou will work across development, testing, DevOps, troubleshooting, and production support activities while collaborating closely with engineering teams, security stakeholders, and business partners to ensure timely and effective remediation outcomes.\n\nLet's Talk About You\n\nYou want to Own Your Career. You're serious about rising as far and as fast as your work and achievements can take you. And you're ready to write the next chapter of your career story: a challenging and rewarding role.\n\nLet's Get Down to Business\n\nCapco is looking for talented, innovative and creative people to join our incredible and growing Team focused on our financial services clients. We are looking for experienced talent exceptional domain expertise who can work directly with our clients on mission-critical projects.\n\nAbout the Role\n\nResponsibilities \n\n3+ Years Experience Angular, Java Spring, ReactOpenshift Cloud Web Development BackgroundGood Communication, can speak with Business to get the requirementsExperienced in Agile working methodologyAware of the Deployment Pipeline - Code deployment, testing and allBasic knowledge of Integration and BackendProfessional experience is important. But it's paramount you share our belief in disruptive innovation that puts clients ahead in a tough market. From day one, your key mission will be to perceive new and better ways of doing things to give your clients an advantage.\n\nNow Take the Next Step\n\nWe have:\n\nAccess to industry-focused talent globallyAbility to leverage best-in-class innovative products and solutions for complex architecture and large-scale transformationExtended global geographic market reachAbility to capitalize on our client footprint and deep domain expertise within financial services and energyBonus Points For\n\nExperience within Financial Services, Banking, Capital Markets, or Payments environments.Knowledge of vulnerability management platforms, security scanning tools, or secure software development practices.Experience working in Agile delivery environments with cross-functional engineering teams.Familiarity with cloud platforms such as AWS, Azure, or GCP.Exposure to containerization technologies such as Docker and Kubernetes.Why Join Capco\n\nDeliver high-impact technology solutions for Tier 1 financial institutions.Work in a collaborative, flat, and entrepreneurial consulting culture.Access continuous learning, training, and industry certifications.Be part of a team shaping the future of digital financial services.Help shape the future of digital transformation across Financial Services and Energy. Benefits\n\nComprehensive Benefits Coverage - 100% company-paid health, life, and disability insurance effective from Day 1 of employment.Retirement Savings Program - Registered Retirement Savings Plan (RRSP) with the option of receiving a matching employer contribution.Virtual Health Care and Employee & Family Assistance Program (EFAP) available to employees and eligible dependents.Parental Leave Top-Up, New Parent Gift, and Wellness Support including fitness reimbursement benefits.Business Coach from Day 1 with personalized one-on-one coaching to support career growth and professional development.Why This Role Is Open\n\nWe are currently hiring for this role due to an existing vacancy within our organization. This position is open as part of our ongoing business needs, and we are actively reviewing applications to fill this role with a qualified candidate who can make an immediate impact.\n\nInclusion at Capco\n\nWe're committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know - we'll be happy to help. We value each person's unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration - a mindset that shapes how we work with clients and each other every day.\n\nUse of Artificial Intelligence in Talent Acquisition\n\nAt Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.\n\nAI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Capco/Job/Junior-Full-Stack-Developer-(Contract-Role)/-in-Toronto,ON?jid=316c706a438f3256&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/junior-full-stack-developer-contract-role-at-capco-4421882265?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In Toronto",
+                    "link": "https://builtintoronto.com/job/junior-full-stack-developer-contract-role/9563287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/junior-full-stack-developer-contract-role/9563287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/ca/job/jr-full-stack-developer--toronto--e1c48777672206410eb1b11a9e0da53a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://ca.talent.com/view?id=618559936386110937&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GrepJob",
+                    "link": "https://grepjob.com/jobs/39985591-faa8-4100-82b4-c78616a486dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GetCanadianJob",
+                    "link": "https://www.getcanadianjob.com/jobs/view/junior-full-stack-sw-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRnVsbCBTdGFjayBEZXZlbG9wZXIgKENvbnRyYWN0IFJvbGUpIiwiY29tcGFueV9uYW1lIjoiQ2FwY28iLCJodGlkb2NpZCI6ImNtUjhUZVc2UmpLREQzVlhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVjJGMFpYSmtiM2R1TEU5dWRHRnlhVzhzUTJGdVlXUmgiLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVWR1pSVUhsVU9UbHZSRVpJUjA1dlYwOWpaVkp5VHpWbFF6WkRTVWt4YlZCNFRYWXhiMUU1UVRsVWRDMVdhbU0xUVY5UlJuZHZkRFV5VUdSb2NEQkhXUzFrYmxjME5WQmlZbEZoTFRVek1rcFNjMDFvWVZJdGFrOWtMV1ZzZDNoMmVWUnBjVEI1VmtGd2Iyb3hRVjlQTkVoV1ZYZ3ROMWx2YkU4eGFXOHdiM2c1WVd4MU1tWVNGMEZSYzJaaGJ6ZHdTMkZIY1RWT2IxQnBaVE56TmtFNEdpSkJTa3RNUm0xSmJIUmpXR2h3ZGxsRmQyVkhSRXhhV1d0V1lXOVJUME5wUVhkUiIsImZjdiI6IjMiLCJmY19pZCI6ImNtUjhUZVc2UmpLREQzVlhBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Junior Software Developer",
+            "company_name": "Helic & Co.",
+            "location": "Burlington, ON, Canada",
+            "via": "WhatJobs",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=uql3Idy0jydBYmqtAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAwAQLH2CUxeYEAlqZBYYKNIoA4w8IAqDW4aFOwoTqEv4b3AcuMVn1lRNSN5TnDjPr9NQjjiCwNHTLCGhjsQNMkOwAQnZhdwvh9yjrLTWiQoJ9lkb5Xlp2bCjif94E7-tDL8vhhMxnazrSYVya0WZwzewhJqVuAJDmMKnlxmKuF6KaE2ZO7mC4tJ4UeZAAAA&shmds=v1_ATWGeeO1wKuEp6_7M_f_xBbQ6r0EIwKJQ414EgZ8p9k2rc5RHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=uql3Idy0jydBYmqtAAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://en-ca.whatjobs.com/jobs/junior-software-developer/burlington-ontario?id=120323252",
+            "job_title": "Junior Software Developer",
+            "description": "About the Role    \n\nWe are seeking an enthusiastic Junior Software Developer to join our collaborative engineering team. In this role, you will write code, fix bugs, and develop new features for our core applications. This position is ideal for an early-career developer who wants to learn modern engineering practices, work with a production codebase, and grow through active mentorship.  \n\n\n  \n\nWhat You\u2019ll Do    \n\nFeature Development:   Write clean, testable code to implement new features under the guidance of senior engineers.  Bug Fixing:   Diagnose, troubleshoot, and resolve issues reported by users or QA teams.  Code Reviews:   Participate in peer code reviews to learn best practices and maintain high code quality.  Agile Participation:   Attend daily stand-ups, sprint planning, and retrospective meetings.  Testing:   Write unit and integration tests to ensure code reliability and performance.    \n  \n\nWhat You\u2019ll Bring    \n\nTechnical Foundation:   Solid understanding of at least one major programming language (e.g., JavaScript, Python, Java, or C#).  Web Basics:   Familiarity with HTML, CSS, and basic database concepts (SQL or NoSQL).  Tools:   Basic experience using Git and GitHub for version control.  Soft Skills:   A strong curiosity to learn, excellent communication skills, and a collaborative team mindset.",
+            "apply_options": [
+                {
+                    "title": "WhatJobs",
+                    "link": "https://en-ca.whatjobs.com/jobs/junior-software-developer/burlington-ontario?id=120323252&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiSGVsaWMgXHUwMDI2IENvLiIsImh0aWRvY2lkIjoidXFsM0lkeTBqeWRCWW1xdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlWMkYwWlhKa2IzZHVMRTl1ZEdGeWFXOHNRMkZ1WVdSaCIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVVqRlBNVFYyWTNSa2RrWndUMVJhVlRORmRtVndhVnBxTjFZemRuUkJVMEZuUjI1c1JUSlVjMUY2WWxseVNqSXhkalJCTkhCa1RWUnhNM1ZNWWkxTk5tdFRWblF4TjBOd1gyRTNZemhoTTFrelh6RlNWME5YWTNabldrSkViRFZSV2t3M05VOUxVSE5yVUdocU9XWmhlVlJPYld0a1ZrdG9MV2h0VlU5UVVURlpVMWRhT1ZJU0YwRlJjMlpoYnpkd1MyRkhjVFZPYjFCcFpUTnpOa0U0R2lKQlNrdE1SbTFNTUZSdlZ5MHRiSEZsVkhWS2F5MTVWalZEYjBWb1ZGQnhWMHhCIiwiZmN2IjoiMyIsImZjX2lkIjoidXFsM0lkeTBqeWRCWW1xdEFBQUFBQT09In0="
+        },
+        {
+            "title": "Junior Software Engineer",
+            "company_name": "DeOS",
+            "location": "Waterloo, ON, Canada",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=kdT9uRR6ICWebJEWAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7COJws9RGBBcdqwgd7NDBsVzqmUTiXclF7EP40NblH77hL76LwjRvDpKgk0f-YCI4swtMlGADjVhQwjR4EIaLiIu0PPqcRz0YoxorpxlzGKpBXkaYrEzmKVb_6dXPuzFipn63307VyG69OlHbQWC4zZyiSAnttYQaGe_4A4qSxMqPAAAA&shmds=v1_ATWGeeOUDUN7EybEcixkvqZsRxN8N-DWG6x1WJEmRmJPkhrmTA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=kdT9uRR6ICWebJEWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/DFKWqSxzjWqCrGdJWrte96iW_AB-5G4tLzcJ5wYvL-0.jpeg",
+            "extensions": [
+                "6 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "source_link": "https://ca.linkedin.com/jobs/view/junior-software-engineer-at-deos-4418849208?refId=FvcK%2BoYLBmIxxKMmU06kfA%3D%3D&trackingId=UtiBm4ptcmHcSTUfxuvHnA%3D%3D",
+            "job_title": "Junior Software Engineer",
+            "description": "Software Developer (New Grad)\n\n\n\n\n\ud83d\udccd Montreal, QC (Onsite) | \ud83d\udcbb Full-Time\n\n\n\n\nDeOS is a next-generation interactive edge platform enabling instant, high-performance gaming on any device. Powered by breakthrough streaming technology and a global edge network, DeOS removes the need for consoles, high-end PCs, or downloads\u2014just open a browser and play.\n\n\n\n\n\ud83e\udde0 What You Bring\n\nDegree in Computer Science, Software Engineering, Physics or MathematicsAbility to learn quicklyWilling to relocate to Montreal\n\n\n\ud83c\udf31 Why Join Deos\n\nTrue ownership and impact from day oneFast learning environment with strong mentorshipOpportunity to work on cutting edge technologiesCollaborative, high-performance team cultureClear growth path into mid-level and senior rolesCompetitive pay and benefits\n\n\n\n\n\n\ud83d\ude80 What You\u2019ll Do\n\nBuild and optimize real-time game streaming components using C++ for high-performance, low-latency executionDevelop backend services and APIs using Node.js and TypeScript to support session management, matchmaking, and streaming orchestrationWork on video/audio streaming pipelines (encoding, decoding, buffering, and synchronization)Implement and optimize network protocols (WebRTC, UDP/TCP) to ensure smooth, low-latency gameplay across devicesContribute to client-side performance and streaming experience using TypeScript-based applicationsDebug and resolve latency, packet loss, and performance bottlenecks in real-time systemsCollaborate on scalable distributed systems powering global edge infrastructureWrite efficient, memory-safe, and highly performant code with a focus on real-time responsivenessParticipate in code reviews, performance testing, and continuous optimization of the streaming stack\n\n\n\ud83d\udca1 Nice to Have\n\nInternship, co-op, or personal project experienceWorking experience",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://ca.linkedin.com/jobs/view/junior-software-engineer-at-deos-4418849208?refId=FvcK%2BoYLBmIxxKMmU06kfA%3D%3D&trackingId=UtiBm4ptcmHcSTUfxuvHnA%3D%3D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJEZU9TIiwiaHRpZG9jaWQiOiJrZFQ5dVJSNklDV2ViSkVXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVYyRjBaWEprYjNkdUxFOXVkR0Z5YVc4c1EyRnVZV1JoIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWpGR2NqbFpSRWM0TjBKRlkzZEpZVkJtUTBwUmRIZFlVbWxyTlZCWVRVTkVTV0paTjJGb1RXTnRWalF3VlRjM1FsRnVjbkpsVjNwU1ExWnRUalJ0UVhORWRUSTJMVTF1UTJGNVNuTkJXRzVNVFVvMVZHVk5jamt4YzAxa1dYZEthVFpyUXpSVk9HOW9WSFI1ZURobVNqbG1SRTAxUm14bWNFeDBaME5QYVc4dFdtTm1aVFVTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMU1TRFYyT0RCa09YUjBRVUZsYldWRlpIb3pjMHAwVkhCT04yUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrZFQ5dVJSNklDV2ViSkVXQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "New Grad (Junior) Software Developer",
+            "company_name": "Collabera",
+            "location": "Toronto, ON, Canada",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=23PlqyTei70SIa5uAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMvQ6CMBQG0LjyCE53VIPUmLjIiAkJAw66k1u48pPar2mr8DA-rLqc8SSfVZLXMlPpuaNN9bIj_JZueMSZvdBF3mLgxNOeKmgKwr4dCJZKoDeyzocYXTgrFYLJ-hA5jm3W4qlgRWNRE3T404Th9znDUZrj6bBkzvY7KmAMa_FMo6U7PGxEStc6pYItd_wF7axuBJ8AAAA&shmds=v1_ATWGeeOhW1KMpylqhwqTcvNSGB5zR7hqTZbOLV_TrlMUJd0K7Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=23PlqyTei70SIa5uAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/OV4fhBfyw8ZHXJ1_zYslNf92m3Ral-BCzYByg_OSvQ8.jpeg",
+            "extensions": [
+                "4 days ago",
+                "CA$83.2K\u2013CA$93.6K a month",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "salary": "CA$83.2K\u2013CA$93.6K a month",
+                "schedule_type": "Contractor"
+            },
+            "source_link": "https://bebee.com/ca/jobs/new-grad-junior-software-developer-collabera-toronto-ontario--theirstack-696080483",
+            "job_title": "New Grad (Junior) Software Developer",
+            "description": "Important Points:\n\n\n\nThe expected base salary range for this position is\n$40/Hr - $45/Hr\n\n\n, depending on experience, skills, and internal equity.\n\n\n\n\nThe Company offers a total rewards package for this position that may include employer-sponsored benefits, where applicable and subject to eligibility requirements, such as supplemental health and dental coverage, life insurance, disability insurance, retirement or savings programs, paid time off, and other benefits.\n\n\nThe availability, structure, and scope of benefits may vary based on role, employment status, work location, and applicable federal and provincial laws.\n\n\nThe Company provides all statutory entitlements, including public holidays, vacation, leaves of absence, and government-mandated benefits, in accordance with applicable law.\n\n\nWe may use AI-enabled and/or automated tools to support parts of our recruitment process, including application screening, interview scheduling, and candidate communications.\n\n\nThese tools are used to enhance consistency and efficiency.\n\n\nAll hiring decisions involve human review and are not based solely on automated processing.\n\n\n\nRole Summary:\n\n\n\nClient is looking for high-potential new graduate Software Developers to join an application development team building internal enterprise applications and platform capabilities for the bank.\n\n\nThis is a strong opportunity for a sharp, hard-working new grad who can think outside the box, learn quickly, and build clean, reliable applications at speed. The ideal candidate will have strong computer science fundamentals, hands-on project or internship experience, and the ability to work through ambiguous problems with urgency and ownership.\n\n\nThis person does not need 5+ years of experience. Bank is looking for someone with strong raw ability, strong work ethic, and the technical foundation to grow into a high-performing developer on the team.\n\n\n\nKey Responsibilities:\n\n\n\nBuild and enhance internal applications, backend services, APIs, and automation tools.\n\n\nWork with senior developers and technical managers to turn business and technical requirements into working software.\n\n\nDevelop clean, maintainable code using modern development practices.\n\n\nSupport application integrations, data movement, and workflow automation across enterprise systems.\n\n\nWrite SQL queries and support basic data validation, troubleshooting, and backend logic.\n\n\nAssist with testing, debugging, root cause analysis, and production activities.\n\n\nLearn bank\u2019s technology environment quickly and contribute to delivery in a Waterfall project structure.\n\n\nBring strong problem-solving, curiosity, and energy to a fast-moving build environment.\n\n\n\nMust-Have Skills:\n\n\n\n\n\nRecent graduate from a strong Computer Science, Software Engineering, Computer Engineering, Math, or related technical program.\n\n\nStrong academic foundation in data structures, algorithms, object-oriented programming, databases, and software design.\n\n\nHands-on coding experience through co-op, internship, capstone, hackathon, GitHub, or personal projects.\n\n\nExperience with at least one backend language such as C#, Java, Python, or similar.\n\n\nStrong understanding of APIs, application logic, debugging, and clean code principles.\n\n\nSQL experience, including joins, queries, stored procedures, or database-backed application work.\n\n\nAbility to learn quickly, work hard, and solve problems independently.\n\n\nStrong communication skills and ability to work with business, technical, and data teams.\n\n\nComfortable working in a structured enterprise environment with documentation and Waterfall delivery.\n\n\n\nNice-to-Have Skills:\n\n\n\n\n\nC# / .NET development experience.\n\n\nAzure exposure, including Azure Functions, App Services, Data Lake, Data Factory, or Databricks.\n\n\nExperience building applications, tools, automations, or data-driven platforms.\n\n\nPrevious co-op or internship experience at a bank, enterprise technology team, SaaS company, or high-performing startup.\n\n\nStrong GitHub, hackathon, competitive programming, or project portfolio.\n\n\nExposure to cloud, data engineering, DevOps, CI/CD, or enterprise integration.\n\n\n\nIdeal Candidate Profile:\n\n\n\nNew grad or early-career developer with strong technical upside.\n\n\nComes from a strong technical university",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/ca/jobs/new-grad-junior-software-developer-collabera-toronto-ontario--theirstack-696080483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOZXcgR3JhZCAoSnVuaW9yKSBTb2Z0d2FyZSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJDb2xsYWJlcmEiLCJodGlkb2NpZCI6IjIzUGxxeVRlaTcwU0lhNXVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVjJGMFpYSmtiM2R1TEU5dWRHRnlhVzhzUTJGdVlXUmgiLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVM1JRWlZCR1MwaGpTbmhXYlhOaFpHMXNORmg1U2xsYWVYQklUVWt6Y3pGV2RsUmtWWE5VV0hsQ09FNTRUMlkyWWpGWk1XVkJjV3RHYzJKRlJVSnZVR3BDYkZGU2RGbzVlWEZDYVZkWVNqaHFUa0ZsYjFOT09XbHBVMFpOZDNsT1IxTlBUMnRoVEVoMFpreElYMFpSY3pCdmF5MUNVVUpEY1dSWmFtMDFjVFIyYlRaNVduTVNGMEZSYzJaaGJ6ZHdTMkZIY1RWT2IxQnBaVE56TmtFNEdpSkJTa3RNUm0xS09WbEdOMXBITTNSVlYwdFFOMUpmVFRKc09DMU1NVE5oVUc1biIsImZjdiI6IjMiLCJmY19pZCI6IjIzUGxxeVRlaTcwU0lhNXVBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Junior Software Developer",
+            "company_name": "Randstad Canada",
+            "location": "Toronto, ON, Canada",
+            "via": "Randstad",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=riZyddm9cOelgsW1AAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y2MMQrCQBAAsc0TrLaykJgLgo2WEYQUCmofNsmaRM7d43bV_MTvGsFmioGZ5DNL8vLJg0S4yM3eGAn29CIvgSKsoJQalDA2PQjDQaTzNN_1ZkG3zqn6rFNDG5qskYcTplpGd5daf6i0n37Bo1G13uRjFrhbLs7I7dS0UCBjizAwXCUKm6RwOqZ__QWNnV2YmgAAAA&shmds=v1_ATWGeePYxp1V9vmVgcbEfuh4SVuZOPL_4FQv-tbqqoWw7glHhA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=riZyddm9cOelgsW1AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/hsL1_7Teu1kz7klcIZGIQGSwD5QSDzBViW9rEORRwaE.png",
+            "extensions": [
+                "7 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Contractor",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.randstad.ca/jobs/junior-software-developer_toronto_46925168/",
+            "job_title": "Junior Software Developer",
+            "description": "We are seeking a motivated and technically proficient Junior Software Developer to join a high-performing digital design branch. In this role, you will be responsible for translating technical system specifications into working, fully tested application code. You will touch both front-end presentation layers and back-end service layers, helping build and modernize web properties using cutting-edge JavaScript frameworks and decoupled architectures.\n\nLocation: Toronto, ON (Minimum 3 days onsite; transitioning to 5 days)\n\nDuration: 12-month contract\n\n\n\nAdvantages\nAccelerated Technical Growth: Deepen your engineering skills by working hands-on with standard enterprise frameworks like Next.js and specialized headless architectures.\n\nLong-Term Contract Runway: A stable 12-month contract provides an ideal platform to build enterprise project experience and establish solid portfolio foundations.\n\nMentorship Culture: Work directly alongside Senior Solutions Designers, Product Managers, and Cloud Architects in a highly collaborative setting.\n\nFull-Lifecycle Visibility: Own your features completely\u2014from initial requirement breakdown through to unit testing and release package support.\n\n\n\nResponsibilities\nFull-Stack Development: Design, develop, and implement clean front-end interface code alongside performant server-side configurations.\n\nComponent Translation: Translate wireframes, storyboards, and technical systems specifications into structured, maintainable web components.\n\nAPI Development: Construct, integrate, and execute automated unit tests for lightweight, secure RESTful API services.\n\nUser Interface Design: Build highly responsive, cross-browser compatible web layouts using modern CSS frameworks and basic digital artwork tools.\n\nTesting & Maintenance: Maintain source code integrity, write detailed programming specifications, and execute rigorous unit and integration tests.\n\nTechnical Support: Troubleshoot, debug, and resolve code defects or configuration bottlenecks arising during implementations, system conversions, or live deployment phases.\n\nAgile Collaboration: Actively participate in Agile/Scrum ceremonies, review technical designs during team walkthroughs, and collaborate with Business Analysts and UX/UI Designers throughout the SDLC.\n\nSystem Documentation: Author clear system code commentary, deployment instructions, and post-implementation technical references.\n\n\n\nQualifications\nCore JavaScript Ecosystem: Practical experience developing applications using React framework and TypeScript.\n\nBackend & Serverless Stacks: Working knowledge of server-side runtimes and rendering frameworks, specifically Node.js and Next.js.\n\nModern Architectures: Foundational structural knowledge of Jamstack Architecture (JavaScript, APIs, and Markup).\n\nAPI Foundations: Proven academic or project experience building, documenting, and testing RESTful APIs.\n\nMethodologies: Solid exposure to working within Agile/Scrum delivery models or Rapid Application Development (RAD) environments.\n\nDatabase & Query Basics: Familiarity with relational database technologies and writing fundamental queries to check data states.\n\nAODA Compliance: Basic awareness or exposure to Web Content Accessibility Guidelines (WCAG) and the Accessibility for Ontarians with Disabilities Act (AODA) is considered a strong asset.\n\n\n\nSummary\nIf you're interested in the Junior Software Developer role based in Toronto, we encourage you to apply online at www.randstad.ca. Only qualified candidates will be contacted for the next steps. We look forward to hearing from you!\n\nRandstad Canada is committed to fostering a workforce reflective of all peoples of Canada. As a result, we are committed to developing and implementing strategies to increase the equity, diversity and inclusion within the workplace by examining our internal policies, practices, and systems throughout the entire lifecycle of our workforce, including its recruitment, retention and advancement for all employees. In addition to our deep commitment to respecting human rights, we are dedicated to positive actions to affect change to ensure everyone has full participation in the workforce free from any barriers, systemic or otherwise, especially equity-seeking groups who are usually underrepresented in Canada's workforce, including those who identify as women or non-binary/gender non-conforming; Indigenous or Aboriginal Peoples; persons with disabilities (visible or invisible) and; members of visible minorities, racialized groups and the LGBTQ2+ community.\n\nRandstad Canada is committed to creating and maintaining an inclusive and accessible workplace for all its candidates and employees by supporting their accessibility and accommodation needs throughout the employment lifecycle. We ask that all job applications please identify any accommodation requirements by sending an email to accessibility@randstad.ca to ensure their ability to fully participate in the interview process.\n\nThis posting is for existing and upcoming vacancies.",
+            "apply_options": [
+                {
+                    "title": "Randstad",
+                    "link": "https://www.randstad.ca/jobs/junior-software-developer_toronto_46925168/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Randstad",
+                    "link": "https://www.randstad.com/jobs/junior-software-developer_toronto_46925168/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://ca.indeed.com/viewjob?jk=f312551a068a3b1b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Eluta.ca",
+                    "link": "https://www.eluta.ca/spl/junior-software-developer-a49b467349c0e857b8fe494ea8fabbf8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Simplify",
+                    "link": "https://simplify.jobs/p/55cc6efa-ecc4-4a92-a7c2-310c0c39ace3/Junior-Software-Developer-Co-opIntern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/ca/jobs/junior-software-developer-2isolutions-inc-toronto-ontario--theirstack-693385443?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GetCanadianJob",
+                    "link": "https://www.getcanadianjob.com/jobs/view/junior-software-developer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiUmFuZHN0YWQgQ2FuYWRhIiwiaHRpZG9jaWQiOiJyaVp5ZGRtOWNPZWxnc1cxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVYyRjBaWEprYjNkdUxFOXVkR0Z5YVc4c1EyRnVZV1JoIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWtNMVgwbHZZM3B0UmsxcVNtVmhXR2xYTkRGdFgzYzJhRkp1WTJwaVVuZGtUSGhDY0RWU1VGOWpXREpPTFRac05FZElVMjlCYlRSdFNqWkNiM2MxVUdGV1R6QjBhVGRuTFZBeVlsRkVlRTFIYVROMWVIRjJOVGhNZVVOR09FSnJRazB5UVMweVluRmZSVmxZYUVObVRrUjRNRU0wZWxKVmNXZHZjM0IzYm5semNHSm9ZbWNTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMU1aazlPZGpFNWQyOHpaVVJZTkdwMVZHNXBlVEpYY1c0d2JGOW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJyaVp5ZGRtOWNPZWxnc1cxQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "JuniorSenior Software developer (2 Roles)",
+            "company_name": "BeGlobal",
+            "location": "Toronto, ON, Canada (+1 other)",
+            "via": "Talent.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=9I5lHSHgEgOV6vTYAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBQF0LjyCS6-UQ1SQ-Kii9GBhEETcSctPAFTe5u-qnyOn6ouZzzJZ5Lsy6cbECr-SxVu8a0DU8svtvAcaJ7TBZZlQSsqYUhYh6YnOCqAzvJ018foZauUiM06iToOTdbgoeDYYFR3GPlTS_-bvdWR63yzHjPvuuXswIWF0ZYGR1cEuIiUzqeUjtrpVn8BxiNEVKMAAAA&shmds=v1_ATWGeePE6GkNQtOGHcurZGUyAR0T1li4JYk9LZmzUP0uEqAxZQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=9I5lHSHgEgOV6vTYAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://ca.talent.com/view?id=621881771223158950",
+            "job_title": "JuniorSenior Software developer (2 Roles)",
+            "description": "Title: Junior/Senior Software developer (2 Roles)Location: Toronto (Hybrid) Relocation WorksDuration: FulltimeRate: $70K for Junior and $100K for Senior (CAD)Citizen and PR onlyVideo Interviews\n and nbsp;Job DescriptionExp Range for Junior candidate: 5 6 Years-------Must Have Technical/Functional SkillsExp Range for Senior Candidate: 8 - 10 Years-------Must Have Technical/Functional SkillsGolang JavaScript Cloud-native application development and microservices architectureRESTful API design and engineeringPower BI report/dashboard developmentDatasets semantic models DAX Power Query (M)Power BI REST APIs/SDKs and embedded analyticsCI/CD with GitHub and GitHub ActionsDocker/Kubernetes exposure\nRoles and amp; Responsibilities:Assist in designing developing and maintaining cloud-native microservices and APIs.Develop scalable secure resilient applications on modern cloud platforms.Design and optimize Power BI reports and dashboards for Capital Markets products.Automate deployment refresh workspace management and security using Power BI REST APIs/SDKs.Embed Power BI analytics into internal/web applications with secure access controls.Collaborate with product owners and analysts to translate reporting needs into visualizations.Implement and optimize CI/CD pipelines using GitHub and GitHub Actions.Follow best practices for code quality testing deployment automation and reporting governance.Use MCP and GitHub Copilot to improve development velocity and quality.Support LLM integration use cases (Claude Sonnet GPT Gemini) for development and analytics.Participate in code reviews design sessions and production issue resolution/on-call rotation.\nGeneric Managerial Skills If anyStrong problem-solving communication collaboration and continuous-learning mindset.Key Words to search in ResumePower BI DAX Power Query Semantic Models Embedded Analytics Power BI REST API Golang JavaScript Microservices Capital Markets\nPre-Screening Questionnaire:Explain your experience building Power BI dashboards using DAX and Power Query.How have you embedded Power BI reports into applications and secured access (RLS/Azure AD)Describe a microservices/API solution you built using Golang/.What CI/CD workflows have you implemented with GitHub ActionsHave you worked in capital markets or regulated financial environments\n\n  Employment Type : Full Time\n  Experience:  years\n  Vacancy:  1",
+            "apply_options": [
+                {
+                    "title": "Talent.com",
+                    "link": "https://ca.talent.com/view?id=621881771223158950&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3JTZW5pb3IgU29mdHdhcmUgZGV2ZWxvcGVyICgyIFJvbGVzKSIsImNvbXBhbnlfbmFtZSI6IkJlR2xvYmFsIiwiaHRpZG9jaWQiOiI5STVsSFNIZ0VnT1Y2dlRZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVYyRjBaWEprYjNkdUxFOXVkR0Z5YVc4c1EyRnVZV1JoIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWkxT1pFWkpPRE5WWms0NFQyWmpTRXBpVGs1Q2MwWkVVbkpuWlRRMGIzSnlTMVI1YkVSaVRsQkJVbXhJWWxrMU4weHZWMWxGVjJZeE5sWTVPR1p5Y1d4UlRYUXRTRVoyUkZKdVZHVkRjRjgyTVhkS1oyUk1hVk5GTWxsbGJsaHFibnBOU0ZOUVptc3dNbXBJZEhCZldWOVllVkJqT1ROUmVGTkVSakJ4VEVSa1VVbzNTVllTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMUpORlptVTBsNFNFaHNjRWhWWlRCMVFUWjVNWEkwZGtoM1NsTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiI5STVsSFNIZ0VnT1Y2dlRZQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Junior Software Developer at Hatch",
+            "company_name": "Hatch Ltd.",
+            "location": "Mississauga, ON, Canada",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=JHxsvN51XJQ4kYSOAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWMOwrCQBBAsc0RrKaxEd0VwUItFZTgp_AAYZKMycq6s-xMNLfxqkaEx4PXvOwzytZ5FxwnuPFd35gI9vQiz5ESoMIRtWphDjmXIIRpCA5wYG48jbetapSNtSLeNKKorjIVPy0HKrm3Dy7lp0LaYRw9KhXL1aI3MTTTyX990tqAC3B2IgPYNTiD62UGOwxY4xf5dfbCogAAAA&shmds=v1_ATWGeeOvWIOmZY5ae_vOaN9CYKuVuna_TIzRtuJtrs4GFoeurA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=JHxsvN51XJQ4kYSOAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/se6C0eVCQptRpEIofWUY_5DhS8-0aTioXeAdlr6S5XI.jpeg",
+            "extensions": [
+                "30 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "30 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://bebee.com/ca/jobs/junior-software-developer-at-hatch-hatch-ltd-mississauga-on-canada--jobgoal-24997_9EDB191F0181E90CDD4E1E4341415E76",
+            "job_title": "Junior Software Developer at Hatch",
+            "description": "Kickstart your tech career with Hatch as a Junior Software Developer Co-op student at our Mississauga office. Get hands-on experience in software development while collaborating on meaningful projects globally.\n\n\nThis Co-op position starts in September 2026 within our Information Technology team. You will engage in Agile practices, estimate tasks, and assist with the software development lifecycle. This role is perfect for those looking to apply academic knowledge and enhance essential programming skills.\n\n\nKey Responsibilities:\n\u2022 Collaborate in Agile teams to progress project backlogs\n\u2022 Develop and execute user stories meeting acceptance criteria\n\u2022 Participate in software testing and code reviews\n\u2022 Assist with software architecture and design discussions\n\u2022 Stay updated on technology trends and evaluate new tools\n\n\nRequirements:\n\u2022 Familiarity with software prototyping and Agile methodologies\n\u2022 Ability to manage time and prioritize tasks effectively\n\u2022 Strong communication and presentation skills\n\u2022 Knowledge of C#/.NET development is an asset\n\u2022 Experience with MS DevOps and SQL Server\n\n\nContribute to impactful projects while developing your technical skills with Hatch's innovative team.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/ca/jobs/junior-software-developer-at-hatch-hatch-ltd-mississauga-on-canada--jobgoal-24997_9EDB191F0181E90CDD4E1E4341415E76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://ca.trabajo.org/job-649-1779b6ab5e276e1418a97ff2f1f498ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/ca-ontario-mississauga-junior-software-developer-role-achev-ach-v?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIGF0IEhhdGNoIiwiY29tcGFueV9uYW1lIjoiSGF0Y2ggTHRkLiIsImh0aWRvY2lkIjoiSkh4c3ZONTFYSlE0a1lTT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlWMkYwWlhKa2IzZHVMRTl1ZEdGeWFXOHNRMkZ1WVdSaCIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVUwbFBUa0oxWTFGTFZqaHpTRm90ZVVKZlRGbGtWelpMTTNCUmR6ZHVWVkExUmpWdmNrUm9iMnBWZFhGM1UxVkVZa3cwYjJRNWExRkNYMjFGVTNORWJYTkNSa2RSUWs1amJqZDBaSGhZWDBKWVN6Qk9ORWxHT0dKV05YVXdSbU5CZHpWbVgySk9TRE5TUlROQ1FtVkdOMHN6UzA5UGFGOVRSbmhaUm5oV2VXRk5OMkp1WDBFU0YwRlJjMlpoYnpkd1MyRkhjVFZPYjFCcFpUTnpOa0U0R2lKQlNrdE1SbTFNTUhwTVdsaHFaMGxyWVZOMFpVTjZiVlZWUzFNelducFRWRlpCIiwiZmN2IjoiMyIsImZjX2lkIjoiSkh4c3ZONTFYSlE0a1lTT0FBQUFBQT09In0="
+        },
+        {
+            "title": "Junior Software Developer: C#/.NET & Azure DevOps",
+            "company_name": "Rubicon Path",
+            "location": "Mississauga, ON, Canada",
+            "via": "BeBee",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=88XskYVsWO9uXj0FAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNwQqCQBRFaesntHoQFIQ5EbSxVVgUQhrVXt7Y5EzYvME3lvRVfWJGcDmbA-cGn0GwT1trqIEz3fwLGwUb9VQ1OdXEkIxElG0vMIb1u_2r3DHMICUJrLApNZCFHVFVq-FKe-84FoK5jir26E0ZlfQQZJWkTtxJ8g8F6_7H1ehVsVjOu8jZajo5tdKUfeyIXoOxcDDM_bCtMIQ8CyFBi1f8An_M08mzAAAA&shmds=v1_ATWGeeOCUuI6lhZt2Jchi0v4v9bhtbJjKNmn9a8fv-J0YoJZGQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=88XskYVsWO9uXj0FAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/fDbr-1ky6fJmX38BMB0nYD9YRBXSIDJnPdFsFZgCJOU.png",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://bebee.com/ca/jobs/junior-software-developer-c-net-azure-devops-rubicon-path-mississauga-peel-region-canada--jobgoal-22543_38768e8f684fb48bb8cc81964e7db846-351178",
+            "job_title": "Junior Software Developer: C#/.NET & Azure DevOps",
+            "description": "A technology services company in Toronto is looking for a Junior Software Developer to translate technical specifications into applications. This role involves strong programming skills, particularly in C# and .NET, as well as experience with SQL and XML. The ideal candidate will communicate effectively in a team and possess knowledge of AODA compliance. Join us to enhance your skills in a collaborative environment.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/ca/jobs/junior-software-developer-c-net-azure-devops-rubicon-path-mississauga-peel-region-canada--jobgoal-22543_38768e8f684fb48bb8cc81964e7db846-351178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ca.jobrapido.com/jobpreview/1780993957635817472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/mississauga/canada/software_development/5125841765/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyOiBDIy8uTkVUIFx1MDAyNiBBenVyZSBEZXZPcHMiLCJjb21wYW55X25hbWUiOiJSdWJpY29uIFBhdGgiLCJodGlkb2NpZCI6Ijg4WHNrWVZzV085dVhqMEZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lZVjJGMFpYSmtiM2R1TEU5dWRHRnlhVzhzUTJGdVlXUmgiLCJmYyI6IkVzd0JDb3dCUVUxdU15MTVVMDlUZFRrek1FeGZObE5PV2xGRFZqZENYMGxMWVhsaFlVbFBPREJKZEdSaGIxVlRVSFpTTFdsTkxURTBOVTVNTlZrdFppMDFNRkoyUVZKdVNGSnRUMjlzTTNsMUxUbERUVWRDVm5SUUxXZFJjMWRLZWpNMlNTMVpOREpqTUhWblgzYzNWMWd0UjA1c1ZEZENla2RUYmxsSVRIRnNaRVZvT1V0ZlFtMVNXVk4zWmpOamJESVNGMEZSYzJaaGJ6ZHdTMkZIY1RWT2IxQnBaVE56TmtFNEdpSkJTa3RNUm0xTVFraERja1ZWUkdaNGQzSTVhMnhWU1VSUmN6VlNSVXhST1dkMyIsImZjdiI6IjMiLCJmY19pZCI6Ijg4WHNrWVZzV085dVhqMEZBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Junior Software Developer - Observability",
+            "company_name": "Canonical",
+            "location": "Mississauga, ON, Canada (+1 other)",
+            "via": "Talent.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=7cH3b7_wVrzThi1YAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMQQrCMBBFcdsjuJqFK6mNCG50IygIBe3CA5RJHNNIzIRMWuuBvKcVPg8eD37xnRWHug-OE9z4kd-YCE40kOdICVbQaKE0oHbe5c_kNWsQwmQ64ABnZutpvu9yjrJTSsRXVjJmZyrDL8WBNI_qyVr-aKWb_qPHTO1mux6rGOxyccTAwRn04AJcnMg07C2W0FxLmCre8Qe00lXSqAAAAA&shmds=v1_ATWGeeOiWdBZN7CpX3OSOJMUvR7VwTQtpH9nYag_o6s8TbStHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=7cH3b7_wVrzThi1YAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6a1f0b00b13aa7e1539b96a6/images/gGIyHt2s5ryLMSZ4ItOgl5gDBBZ88pJo02X2VJQBUM4.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "source_link": "https://ca.talent.com/view?id=605756600598539628",
+            "job_title": "Junior Software Developer - Observability",
+            "description": "Junior Software Developer \u2013 Observability Apply for the Junior Software Developer \u2013 Observability role at Canonical.\n\n Canonical is a leading provider of open source software and operating systems to global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office\u2011based roles.\n\n We are hiring a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud\u2011native monitoring stack that composes best\u2011in\u2011class open\u2011source monitoring tools.\n\n Location: Remote (EMEA and Americas)\n\n Responsibilities  Collaborate proactively with a globally distributed team. Write, test and document high\u2011quality code to create new features. Debug issues and interact with a vibrant community. Review code produced by other engineers. Attend conferences to represent Canonical and the Charmed Observability Stack. Work from home with global travel 2 to 4 weeks for internal and external events.  Qualifications  You love technology and working with brilliant people. You value soft skills and are passionate, enterprising, thoughtful, and self\u2011motivated. You have a Bachelor\u2019s or equivalent in Computer Science, STEM, or a similar degree. You are a skilled Python developer, preferably with a track record in open source. You have a working knowledge of Go. You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.  Benefits  Distributed work environment with twice\u2011yearly team sprints in person. Personal learning and development budget of USD 2,000 per year. Annual compensation review. Recognition rewards. Annual holiday leave. Maternity and paternity leave. Team Member Assistance Program & Wellness Platform. Opportunity to travel to new locations to meet colleagues. Priority Pass and travel upgrades for long\u2011haul company events.  Canonical is an equal opportunity employer. We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.\n\n #J-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Talent.com",
+                    "link": "https://ca.talent.com/view?id=605756600598539628&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sercanto",
+                    "link": "https://ca.sercanto.com/detail/a/junior-software-developer-observability_mississauga_172004701?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Blackboard Job",
+                    "link": "https://ca.blackboardjob.com/detail/a/licensed-pharmacists_truro_171873363?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido.com",
+                    "link": "https://ca.jobrapido.com/jobpreview/18635147985289216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Mississauga Jobs Expertini",
+                    "link": "https://mississauga.ca.expertini.com/job/junior-software-developer-observability-mississauga-canonical-291-5985823/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/mississauga/canada/software_development/5125840157/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/ca-ontario-mississauga-junior-software-developer-observability-canonical?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRGV2ZWxvcGVyIC0gT2JzZXJ2YWJpbGl0eSIsImNvbXBhbnlfbmFtZSI6IkNhbm9uaWNhbCIsImh0aWRvY2lkIjoiN2NIM2I3X3dWcnpUaGkxWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVlWMkYwWlhKa2IzZHVMRTl1ZEdGeWFXOHNRMkZ1WVdSaCIsImZjIjoiRXN3QkNvd0JRVTF1TXkxNVVtWnVZM2wwUVZrelNuQTNRV3B0Vmw4M1FVUkNUa1E1VFc5bFdqWkJkMlJoTlRGUk5tSXdReTEzZGpCa0xUZ3dZbUkxWjJWemRIRTVlWHBuY0ZCMFJIUmpRV295ZVZGcWFsOHlWRkY0TVdoSFQyOTRWV2hzWVZjMUxWQmxWMGx1YlhGbWEweHpORXh4YUhkTVZYZFpZWE52TUdaTGJtNUlOV3d5U25aM05teE5RMEl5UVdJU0YwRlJjMlpoYnpkd1MyRkhjVFZPYjFCcFpUTnpOa0U0R2lKQlNrdE1SbTFLZG5CRWJFZHJVbFEzYW5seU1XSTNVbDlXZVdFMVUwNXpORWgzIiwiZmN2IjoiMyIsImZjX2lkIjoiN2NIM2I3X3dWcnpUaGkxWUFBQUFBQT09In0="
+        },
+        {
+            "title": "Junior Software Engineer",
+            "company_name": "Aivra Health LLC",
+            "location": "Toronto, ON, Canada",
+            "via": "Dice",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Junior+Software+Developer&htidocid=hq3ftJ8UhP3gTX5ZAAAAAA%3D%3D&hl=en-US&shem=rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU63CVIbEVx0kiJKKTroXq71mkTiXUlO7Z_4u-ryxpd9JpmpnuwlwkV6fWMk2LP1TBRhAZW0kAhj50AYDiI20HTrVIe0MSalUNikqL4rOnkYYWplNHdp058muV83BFRqVuvlWAxs57Odf0WEI2FQB3Vdgme4ShRWyeF8yqFExht-AYPT7iCaAAAA&shmds=v1_ATWGeeNIoZ97GshxAhShK-cf282vFSIU2lr0OxXAN35iwZgwRg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Junior+Software+Developer&htidocid=hq3ftJ8UhP3gTX5ZAAAAAA%3D%3D",
+            "extensions": [
+                "15 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "schedule_type": "Full-time"
+            },
+            "source_link": "https://www.dice.com/job-detail/b233e82d-75a2-40dc-bad4-6d6fbb42175a",
+            "job_title": "Junior Software Engineer",
+            "description": "Junior Software EngineerUnited States\nFull-Time\nPay Range: $70,000 \u2013 $95,000 per year\nVisa: H1B Sponsorship Available | STEM OPT & OPT Candidates Welcome\n\nPosition OverviewWe are seeking a motivated and detail-oriented Junior Software Engineer to join our growing engineering team in the United States. This role is ideal for entry level candidates and early-career professionals looking to build scalable, high-performance software solutions in a collaborative and agile environment.\n\nThe candidate will contribute to application development, backend services, cloud deployment, and system integrations while working alongside senior engineers and product teams.\n\nKey ResponsibilitiesDesign, develop, test, and deploy scalable applications\n\nWrite clean, maintainable, and efficient production-level code\n\nParticipate in code reviews and technical discussions\n\nDebug, troubleshoot, and resolve software defects\n\nDevelop and consume RESTful APIs\n\nCollaborate with cross-functional teams (Product, QA, DevOps)\n\nContribute to CI/CD pipelines and DevOps processes\n\nFollow Agile/Scrum development methodologies\n\nRequired QualificationsBachelor\u2019s or Master\u2019s degree in Computer Science, Software Engineering, Information Technology, or related STEM field\n\n0\u20132 years of experience (internship or project experience acceptable)\n\nStrong understanding of Data Structures & Algorithms\n\nKnowledge of Object-Oriented Programming (OOP)\n\nFamiliarity with Software Development Life Cycle (SDLC)\n\nTechnical Skills (ATS Keywords)Programming LanguagesJava\n\nPython\n\nC++\n\nJavaScript\n\nTypeScript\n\nC#\n\nFrontend TechnologiesReact.js\n\nAngular\n\nVue.js\n\nHTML5\n\nCSS3\n\nBootstrap\n\nBackend TechnologiesNode.js\n\nSpring Boot\n\n.NET Core\n\nDjango\n\nExpress.js\n\nDatabasesMySQL\n\nPostgreSQL\n\nMongoDB\n\nOracle\n\nSQL Server\n\nCloud & DevOpsAWS\n\nMicrosoft Azure\n\nGoogle Cloud Platform (Google Cloud Platform)\n\nDocker\n\nKubernetes\n\nJenkins\n\nGitHub Actions\n\nCI/CD pipelines\n\nTools & MethodologiesGit\n\nREST APIs\n\nMicroservices Architecture\n\nAgile/Scrum\n\nJIRA\n\nLinux/Unix\n\nUnit Testing (JUnit, PyTest)\n\nPreferred QualificationsKnowledge of distributed systems\n\nUnderstanding of cloud-native application development\n\nExperience with containerization\n\nStrong analytical and problem-solving skills\n\nExcellent communication and teamwork abilities\n\nCompensation & BenefitsCompetitive salary ($70,000 \u2013 $95,000 annually)\n\nPerformance-based bonuses\n\nHealth, Dental, and Vision insurance\n\n401(k) with company match\n\nPaid Time Off (PTO)\n\nH1B sponsorship support for eligible candidates\n\nSupport for STEM OPT extension candidates\n\nEqual Opportunity EmployerWe are an Equal Opportunity Employer and encourage applications from candidates of all backgrounds, including international students and professionals requiring visa sponsorship.",
+            "apply_options": [
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/b233e82d-75a2-40dc-bad4-6d6fbb42175a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/ca/jobs/software-engineer-junior-it-maarut-toronto-on--jooble--6712650391159904874--e06aee5e3a349876198233aed26c2789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgU29mdHdhcmUgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJBaXZyYSBIZWFsdGggTExDIiwiaHRpZG9jaWQiOiJocTNmdEo4VWhQM2dUWDVaQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWVYyRjBaWEprYjNkdUxFOXVkR0Z5YVc4c1EyRnVZV1JoIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVVVNVIweEtkWGRVTVRjeVZ6SkpVMkpmWmpsa01FRlRjRWRJTVhNMVZEZDVaRUpoUkdoaE9ESm9jR3RLVFdkSVZsbEhlVU15WDBsRFVIbDZjVXRTVDNsblRWRnVWVE0yTmpSZk1tTnBZekZOUkZwU2JWRlBkM0Y2UkVONFVIaGhRMGhMVjBWNk9XMURORU41YkZaT2J6bEpiRnBtVkhsRlUwVTFXbVIyUnpKbVNuQm5OelVTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMUtjMGRmVldaWVZFYzNOV2RFZGpCMFIwRjRablJvUVVkemJXbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJocTNmdEo4VWhQM2dUWDVaQUFBQUFBPT0ifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVUxdU15MTVVV281WTJGQkxVYzFabmg1WkdzeGQwNHhVRGN6YzBoRWVqRldXbEJDZVVWSGExQm1WbTEyUlMxSFpFVm9lbTgwUlV4TWJVVjZaemRFY0ZsbVdERXhWSFI1WW0xM1VWSjNhRlpFV1ZSMlgwWkhWbWwyUzFGemNtWlhRM0Z2VjBkbk5FRm9lVE5tVmxVdE5XSkJkbGxRUlRZeE9UQndVblIzUjBsVlIwVnlRMWMwTWtoVFJtTmhNVnBFZERseGQyMW5SVTFsTWxOSGRWVnllVVpNZWpGVVJEQnhZVFExTW1vNWRWOW5hVE52U3pBeFJtOHhTRnBWVFc0dGNFaFZZVU5EVTFrMFUyWkhTVTlSZVd0MVFYbGhOVzl1ZW5sclpHaHFkWE01TkVKMlVtVldSek41UzNSZmQwZ3hVV2xsUjJGNloybzJjRWhQYVhJMGFtUmxSR2MxU0ZCbWVHSkROelZTTVhGSFMxRjZWVWxJV0hkdGRVaDVVVXBvVUZwb2VIQjFSR1Y1VERKdlNHRm1aalUxZUc5eGNEbHpjRmhITW0wd1NVTTBiMGt6ZFhjMGR6TkhhVVlTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMUtYMFZXWlRKWU4wOWhkRk00YzBOYU5Wa3lUMVZwY0dWNFZUaEIiLCJmY3YiOiIzIn0=",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=Waterdown&next_page_token=eyJmYyI6IkVvd0RDc3dDUVUxdU15MTVVV281WTJGQkxVYzFabmg1WkdzeGQwNHhVRGN6YzBoRWVqRldXbEJDZVVWSGExQm1WbTEyUlMxSFpFVm9lbTgwUlV4TWJVVjZaemRFY0ZsbVdERXhWSFI1WW0xM1VWSjNhRlpFV1ZSMlgwWkhWbWwyUzFGemNtWlhRM0Z2VjBkbk5FRm9lVE5tVmxVdE5XSkJkbGxRUlRZeE9UQndVblIzUjBsVlIwVnlRMWMwTWtoVFJtTmhNVnBFZERseGQyMW5SVTFsTWxOSGRWVnllVVpNZWpGVVJEQnhZVFExTW1vNWRWOW5hVE52U3pBeFJtOHhTRnBWVFc0dGNFaFZZVU5EVTFrMFUyWkhTVTlSZVd0MVFYbGhOVzl1ZW5sclpHaHFkWE01TkVKMlVtVldSek41UzNSZmQwZ3hVV2xsUjJGNloybzJjRWhQYVhJMGFtUmxSR2MxU0ZCbWVHSkROelZTTVhGSFMxRjZWVWxJV0hkdGRVaDVVVXBvVUZwb2VIQjFSR1Y1VERKdlNHRm1aalUxZUc5eGNEbHpjRmhITW0wd1NVTTBiMGt6ZFhjMGR6TkhhVVlTRjBGUmMyWmhiemR3UzJGSGNUVk9iMUJwWlROek5rRTRHaUpCU2t0TVJtMUtYMFZXWlRKWU4wOWhkRk00YzBOYU5Wa3lUMVZwY0dWNFZUaEIiLCJmY3YiOiIzIn0%3D&q=Junior+Software+Developer"
+    }
+}
