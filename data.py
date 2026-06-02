@@ -1,5 +1,5 @@
 import sqlite3
-import datetime
+from datetime import datetime
 
 def InitiateConnection():
     connection = sqlite3.connect('Postings.db')
@@ -31,7 +31,7 @@ def InitiateConnection():
 
     return cursor
 
-def WriteToDB(postings):
+def WritePostingsToDB(postings):
     cursor = InitiateConnection()
     for posting in postings:
         data = [
@@ -39,14 +39,40 @@ def WriteToDB(postings):
             posting['company_name'],
             posting['source_link'],
             posting['description'],
-            datetime.datetime.now()
+            datetime.now()
         ]
         cursor.execute("insert into postings values (?,?,?,?,?)",data)
+    cursor.connection.commit()
 
 
-def ReadFromDB():
-    return asdf
+def ReadPostingsFromDB():
+    cursor = InitiateConnection()
+    results = cursor.execute("select * from postings where analyzed = 0").fetchall()
+    return results
 
+
+def WriteInsightToDB(insight):
+    cursor = InitiateConnection()
+    data = [
+        insight['keywords'],
+        insight['required'],
+        insight['nice_to_have'],
+        insight['seniority'],
+        datetime.now()
+    ]
+    cursor.execute("insert into postings values (?,?,?,?,?)",data)
+    cursor.connection.commit()
+
+
+def ReadLastInsightFromDB():
+    cursor = InitiateConnection()
+    result = cursor.execute("select * from insights").fetchone()
+    return result
+
+def ReadAllInsightFromDB():
+    cursor = InitiateConnection()
+    results = cursor.execute("select * from insights").fetchall()
+    return results
 
 
 """
