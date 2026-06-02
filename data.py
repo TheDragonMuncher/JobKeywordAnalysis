@@ -1,4 +1,5 @@
 import sqlite3
+import datetime
 
 def InitiateConnection():
     connection = sqlite3.connect('Postings.db')
@@ -11,6 +12,7 @@ def InitiateConnection():
                 "title text," \
                 "company text," \
                 "source text," \
+                "description text," \
                 "fetched_at datetime," \
                 "analyzed boolean default 0" \
             ");"
@@ -32,7 +34,14 @@ def InitiateConnection():
 def WriteToDB(postings):
     cursor = InitiateConnection()
     for posting in postings:
-        cursor.execute("")
+        data = [
+            posting['title'],
+            posting['company_name'],
+            posting['source_link'],
+            posting['description'],
+            datetime.datetime.now()
+        ]
+        cursor.execute("insert into postings values (?,?,?,?,?)",data)
 
 
 def ReadFromDB():
