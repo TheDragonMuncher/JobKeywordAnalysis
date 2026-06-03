@@ -14,4 +14,5 @@ Return ONLY valid JSON with these fields:
   "seniority_level": "junior|mid|senior|lead",
   "years_experience": number or null
 }
+No explanation. No markdown. JSON only. 
 """
