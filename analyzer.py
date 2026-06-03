@@ -7,7 +7,7 @@ import config
 def Analyze():
     postings = data.ReadPostingsFromDB()
     messages = []
-    client = Anthropic(api_key='')
+    client = Anthropic(api_key=config.claudeApiKey)
 
     #build batch requests
     for posting in postings:

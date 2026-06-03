@@ -16,3 +16,4 @@ Return ONLY valid JSON with these fields:
 }
 No explanation. No markdown. JSON only. 
 """
+claudeApiKey = ''
