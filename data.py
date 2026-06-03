@@ -1,5 +1,6 @@
 import sqlite3
 from datetime import datetime
+import json
 
 def InitiateConnection():
     connection = sqlite3.connect('Postings.db')
@@ -31,7 +32,7 @@ def InitiateConnection():
 
     return cursor
 
-def WritePostingsToDB(postings):
+def WritePostingsToDB(postings: json):
     cursor = InitiateConnection()
     for posting in postings:
         data = [
@@ -51,7 +52,7 @@ def ReadPostingsFromDB():
     return results
 
 
-def WriteInsightToDB(insight):
+def WriteInsightToDB(insight: json):
     cursor = InitiateConnection()
     data = [
         insight['keywords'],
