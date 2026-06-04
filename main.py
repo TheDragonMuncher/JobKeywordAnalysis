@@ -5,5 +5,5 @@ import reporter
 def main(args: list):
     scraper.RetrievePostings()
     analyzer.Analyze()
-    # reporter.Report()
+    reporter.Report()
     return 0
