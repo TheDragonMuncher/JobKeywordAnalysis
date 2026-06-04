@@ -44,11 +44,13 @@ def WritePostingsToDB(postings: json):
         ]
         cursor.execute("insert into postings values (?,?,?,?,?)",data)
     cursor.connection.commit()
+    cursor.connection.close()
 
 
 def ReadPostingsFromDB():
     cursor = InitiateConnection()
     results = cursor.execute("select * from postings where analyzed = 0").fetchall()
+    cursor.connection.close()
     return results
 
 
@@ -63,16 +65,19 @@ def WriteInsightToDB(insight: json):
     ]
     cursor.execute("insert into postings values (?,?,?,?,?)",data)
     cursor.connection.commit()
+    cursor.connection.close()
 
 
 def ReadLastInsightFromDB():
     cursor = InitiateConnection()
     result = cursor.execute("select * from insights").fetchone()
+    cursor.connection.close()
     return result
 
 def ReadAllInsightFromDB():
     cursor = InitiateConnection()
     results = cursor.execute("select * from insights").fetchall()
+    cursor.connection.close()
     return results
 
 
