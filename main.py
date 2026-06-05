@@ -2,8 +2,10 @@ import scraper
 import analyzer
 import reporter
 
-def main(args: list):
-    scraper.RetrievePostings()
-    analyzer.Analyze()
-    reporter.Report()
+def main():
+    # scraper.RetrievePostings()
+    # analyzer.Analyze()
+    reporter.ReportInsights()
     return 0
+
+main()

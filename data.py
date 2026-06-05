@@ -6,7 +6,9 @@ def InitiateConnection():
     connection = sqlite3.connect('Postings.db')
     cursor = connection.cursor()
 
-    if cursor.execute("select name from sqlite_master where name='postings'").fetchone() is None:
+    tables = cursor.execute("select name from sqlite_master").fetchall()
+
+    if ('postings',) not in tables:
         cursor.execute(
             "create table postings (" \
                 "id integer primary key," \
@@ -18,14 +20,14 @@ def InitiateConnection():
                 "analyzed boolean default 0" \
             ");"
         )
-    if cursor.execute("select name from sqlite_master where name='insights'").fetchone() is None:
+    if ('insights',) not in tables:
         cursor.execute(
-            "create table postings (" \
+            "create table insights (" \
                 "posting_id integer references postings(id)," \
                 "keywords text," \
                 "required text," \
                 "nice_to_have text," \
-                "seniority text" \
+                "seniority text," \
                 "analyzed_at datetime" \
             ");"
         )
@@ -34,15 +36,19 @@ def InitiateConnection():
 
 def WritePostingsToDB(postings: json):
     cursor = InitiateConnection()
+    data = []
     for posting in postings:
-        data = [
-            posting['title'],
-            posting['company_name'],
-            posting['source_link'],
-            posting['description'],
-            datetime.now()
-        ]
-        cursor.execute("insert into postings values (?,?,?,?,?)",data)
+        data.append({
+            'title':posting['title'],
+            'company':posting['company_name'],
+            'source':posting['source_link'],
+            'description':'description',
+            'fetched_at':datetime.now()
+        })
+    data = tuple(data)
+    cursor.executemany("insert into postings (title,company,source,description,fetched_at) " \
+    "values (:title,:company,:source,:description,:fetched_at)",data)
+
     cursor.connection.commit()
     cursor.connection.close()
 
@@ -53,17 +59,34 @@ def ReadPostingsFromDB():
     cursor.connection.close()
     return results
 
+def UpdatePostingsAnalyzedBool():
+    cursor = InitiateConnection()
+    postings = cursor.execute("update postings set analyzed = 1 where analyzed = 0")
+    cursor.connection.close()
+    
 
 def WriteInsightToDB(insight: json):
     cursor = InitiateConnection()
-    data = [
-        insight['keywords'],
-        insight['required'],
-        insight['nice_to_have'],
-        insight['seniority'],
-        datetime.now()
-    ]
-    cursor.execute("insert into postings values (?,?,?,?,?)",data)
+    keywords = ''
+    required = ''
+    nice_to_have = ''
+
+    for item in insight['keywords']:
+        keywords += (item + ',')
+    for item in insight['required_skills']:
+        required += (item + ',')
+    for item in insight['nice_to_have_skills']:
+        nice_to_have += (item + ',')
+    
+    data = {
+        'keywords':keywords,
+        'required':required,
+        'nice_to_have':nice_to_have,
+        'seniority':insight['seniority_level'],
+        'analyzed_at':datetime.now()
+    }
+    cursor.execute("insert into insights (keywords,required,nice_to_have,seniority,analyzed_at)" \
+                   "values (:keywords,:required,:nice_to_have,:seniority,:analyzed_at)",data)
     cursor.connection.commit()
     cursor.connection.close()
 
