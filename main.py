@@ -3,8 +3,8 @@ import analyzer
 import reporter
 
 def main():
-    # scraper.RetrievePostings()
-    # analyzer.Analyze()
+    scraper.RetrievePostings()
+    analyzer.Analyze()
     reporter.ReportInsights()
     return 0
 
